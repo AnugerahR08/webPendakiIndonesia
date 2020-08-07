@@ -1,2 +1,2 @@
-# webPendakiIndonesia
-web tentang pendakian Indonesia
+#PendakiIndonesia
+web pendakian Indonesia
